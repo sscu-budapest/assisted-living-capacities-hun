@@ -1,0 +1,20 @@
+authors:
+- family-names: Borza
+  given-names: Endre Márk
+  orcid: 0000-0002-8804-4520
+cff-version: 1.2.0
+date-released: '2023-01-18'
+doi: 10.5281/zenodo.7548423
+keywords: []
+license: MIT
+message: If you use this software, please cite it as below.
+references:
+- date-released: '2023-01-11'
+  doi: 10.5281/zenodo.7525675
+  title: sscu-budapest/datazimmer
+  type: software
+  version: 0.4.8
+title: assisted-living-capacities-hun
+type: dataset
+url: https://doi.org/10.5281/zenodo.7548423
+version: zimmer-v0/0.0/2023.1.18.1/#raw
